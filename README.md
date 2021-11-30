@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emkuznetsov
+- 👋 Hi, I’m Eduard
 - 👀 I’m interested in AI and Sales Automation
 - 🌱 I’m currently learning Zero Code Instruments
 - 💞️ I’m NOT looking to collaborate on anything
